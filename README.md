@@ -44,6 +44,10 @@ This analysis aims to track service performance, identify inefficiencies, and en
 - Bottleneck identification by customer and SKU
 - Filter by region, customer, and product categories
 
+<img width="1749" height="902" alt="Screenshot 2025-07-13 101443" src="https://github.com/user-attachments/assets/d9d9dd41-a736-48cf-bc58-34cf578db62d" />
+<img width="1391" height="784" alt="Screenshot 2025-07-13 103543" src="https://github.com/user-attachments/assets/fc1e7a9d-b05b-4948-bbf1-7496103f849f" />
+<img width="1397" height="782" alt="Screenshot 2025-07-13 103217" src="https://github.com/user-attachments/assets/d1bf4d9c-4494-461e-9dd0-1ed3cac4593b" />
+
 
 ---
 
